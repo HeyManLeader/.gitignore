@@ -3,3 +3,4 @@ Second Step: $ git commit -m "wrote a readme file"  //-m后面输入的是本次
                                                    //这样你就能从历史记录里方便地找到改动记录
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
+Git has a mutable index called stage.
